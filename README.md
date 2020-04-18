@@ -12,7 +12,7 @@
 
 **[2. Rust Web 常用框架](/chapters/web_framework.md)**
 
-**[3. 为什么要松耦合?]()**
+**[3. 为什么要松耦合?](/chapters/loose_coupling.md)**
 
 **[4. REST API]()**
 
