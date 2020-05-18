@@ -16,7 +16,7 @@
 
 **[4. REST API](/chapters/rest-api.md)**
 
-**[5. 身份认证]()**
+**[5. 身份认证](/chapters/authentication.md)**
 
 **[6. 邮件确认]()**
 
