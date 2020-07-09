@@ -18,7 +18,7 @@
 
 **[5. 身份认证](/chapters/authentication.md)**
 
-**[6. 邮件确认]()**
+**[6. 邮件确认](/chapters/email_verification.md)**
 
 **[7. 排序和过滤]()**
 
