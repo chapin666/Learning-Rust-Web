@@ -26,7 +26,7 @@
 
 **[9. 应用 Macros ]()**
 
-**[10. Cache 设计]()**
+**[10. Cache 设计](/chapters/caching.md)**
 
 **[11. Actix 和 Diesel 集成测试]()**
 
