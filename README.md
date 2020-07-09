@@ -20,7 +20,7 @@
 
 **[6. 邮件确认](/chapters/email_verification.md)**
 
-**[7. 排序和过滤]()**
+**[7. 排序与筛选](/chapters/sorting_and_filtering.md)**
 
 **[8. 列表分页]()**
 
