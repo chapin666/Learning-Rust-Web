@@ -24,10 +24,10 @@
 
 **[8. 列表分页](/chapters/pagination.md)**
 
-**[9. 应用 Macros ]()**
+**[9. 应用 Macros ](/chapters/macros.md)**
 
 **[10. Cache 设计](/chapters/caching.md)**
 
-**[11. Actix 和 Diesel 集成测试]()**
+**[11. Actix 和 Diesel 集成测试](/chapters/integration_tests.md)**
 
 
